@@ -3,6 +3,9 @@
 This is HTML5 application, built with [Brunch](http://brunch.io).
 
 ## Getting started
+
+### Prerequisites
+
 * Install (if you don't have them):
     * [Node.js](http://nodejs.org): `brew install node` on OS X
     * [Brunch](http://brunch.io): `npm install -g brunch`
@@ -14,3 +17,20 @@ This is HTML5 application, built with [Brunch](http://brunch.io).
     * `public/` dir is fully auto-generated and served by HTTP server.  Write your code in `app/` dir.
     * Place static files you want to be copied from `app/assets/` to `public/`.
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
+
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+
+## Authors
+
+Tankred
+
+## License
+
+Add link to license file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used    
